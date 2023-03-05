@@ -33,7 +33,7 @@ h2 {
 }
 
 h1 {
-	color: black;
+	color: var(--neutral-color-one);
 }
 
 h2 {
@@ -84,7 +84,7 @@ p {
 }
 
 .cart-btn:active {
-	background-color: var(--neutral-color-one);
+	background-color: rgb(1, 47, 1);
 }
 
 .attribution {
