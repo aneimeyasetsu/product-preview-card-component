@@ -83,6 +83,10 @@ p {
 	margin-bottom: 1em;
 }
 
+.cart-btn:active {
+	background-color: var(--neutral-color-one);
+}
+
 .attribution {
 	margin-top: 4em;
 }
