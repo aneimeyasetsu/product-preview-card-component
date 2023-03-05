@@ -65,6 +65,8 @@ p {
 }
 
 .price-container {
+	max-width: 173px;
+	min-width: 159px;
 	width: 53%;
 	display: flex;
 	justify-content: space-between;
